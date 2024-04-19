@@ -1,5 +1,7 @@
 # Axiom SDK Core
 
+> ⚠️ Warning: This repository has been deprecated. The general functionality of this repo has been merged into [axiom-sdk-client](https://github.com/axiom-crypto/axiom-sdk-client).
+
 [Axiom](https://axiom.xyz) allows smart contracts to compute over the entire history of Ethereum. Smart contracts can query Axiom on-chain, and Axiom results are verified on-chain in ZK and delivered to the target smart contract via callback.
 
 # Getting started with Axiom V2
